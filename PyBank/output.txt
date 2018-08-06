@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------------------------------
+Total Month: 41
+Total Revenue : $18971412
+Average Change : $462717.37
+Greatest Increase in Profits : Sep-15 (1195111)
+Greatest Decrease in Profits : Aug-14 (-1172384)
